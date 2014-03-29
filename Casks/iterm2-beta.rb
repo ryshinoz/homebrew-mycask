@@ -1,4 +1,4 @@
-class iTermBeta2 < Cask
+class Iterm2Beta < Cask
   url 'http://www.iterm2.com/downloads/beta/iTerm2-1_0_0_20140112.zip'
   homepage 'http://www.iterm2.com/'
   version '1.0.0.20140112'
